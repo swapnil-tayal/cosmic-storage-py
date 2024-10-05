@@ -7,7 +7,7 @@ Currently there is no limit on how many videos you can upload on youtube, there 
 
 Sample YouTube Video
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SRxB2b1Bo3w/0.jpg)](https://www.youtube.com/watch?v=SRxB2b1Bo3w)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ANMkgCiSGxQ/0.jpg)](https://www.youtube.com/watch?v=ANMkgCiSGxQ)
 
 ### HOW IT WORKS ###
 1. As we know we can upload only videos on youtube, say yes 😂
