@@ -3,16 +3,17 @@ import os
 height = 720
 width = 1280
 one_pixel_size = 8
-fps = 60
+fps = 30
 
 fileMap = {
     ".mp4": 0,
     ".mp3": 1,
     ".png": 2,
     ".jpeg": 3,
-    ".pdf": 4
+    ".pdf": 4,
+    ".jpg": 5
 }
-fileArray = [".mp4", ".mp3", ".png", ".jpeg", ".pdf"];
+fileArray = [".mp4", ".mp3", ".png", ".jpeg", ".pdf", ".jpg"];
 
 def recreate_directory(dir_path):
     if os.path.exists(dir_path):
