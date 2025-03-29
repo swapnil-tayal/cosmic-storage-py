@@ -11,9 +11,10 @@ fileMap = {
     ".png": 2,
     ".jpeg": 3,
     ".pdf": 4,
-    ".jpg": 5
+    ".jpg": 5,
+    ".zip": 6,
 }
-fileArray = [".mp4", ".mp3", ".png", ".jpeg", ".pdf", ".jpg"];
+fileArray = [".mp4", ".mp3", ".png", ".jpeg", ".pdf", ".jpg", ".zip"];
 
 def recreate_directory(dir_path):
     if os.path.exists(dir_path):
